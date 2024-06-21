@@ -9,7 +9,7 @@ function Sidebar() {
         <div className={styles.profile}>
             <img className={styles.avatar} src="https://avatars.githubusercontent.com/u/13510169?v=4" />
 
-            <strong>Diego Fernandes</strong>
+            <strong>Patrick Santos</strong>
             <span>Web Developer</span>
         </div>
 
